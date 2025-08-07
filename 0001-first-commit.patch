@@ -1,0 +1,42 @@
+From a71b013361166d548846dd526bdd0e043b97d106 Mon Sep 17 00:00:00 2001
+From: priya <irenerseb@gmail.com>
+Date: Thu, 7 Aug 2025 12:19:46 +0530
+Subject: [PATCH] first commit
+
+---
+ README.md | 16 ++++++++++------
+ 1 file changed, 10 insertions(+), 6 deletions(-)
+
+diff --git a/README.md b/README.md
+index db95f91..a9d62cf 100644
+--- a/README.md
++++ b/README.md
+@@ -1,15 +1,19 @@
+-textimagegenerator
+-==================
++# textimagegenerator
+ 
+ Library for easily creating images (PNG/JPG) which contain text-data, making those data harder to copy then regular HTML.
+ 
+-This project provides a Java API for creating images/graphics with text-based content. 
+-The image can be saved in several formats (png,jpg etc.). Fonts, styles and colors can be 
+-chosen for the text being rendered. See the src/test/nl/jamiecraane/imagegenerator/examples 
++This project provides a Java API for creating images/graphics with text-based content.
++The image can be saved in several formats (png,jpg etc.). Fonts, styles and colors can be
++chosen for the text being rendered. See the src/test/nl/jamiecraane/imagegenerator/examples
+ packages for numerous examples of how to use this library.
+ 
+ For an actual example see my blogpost about this project at http://jcraane.blogspot.com/2009/01/text-image-generator-example.html
+ 
+ To use this library just add downloaded jar file to your projects classpath.
+-This project has minimal dependencies on external libraries (see pom.xml). The distributable can be found under downloads. 
++This project has minimal dependencies on external libraries (see pom.xml). The distributable can be found under downloads.
+ This jar is compatible with Java 5 or higher. A 1.4 compatible version is planned.
++
++
++
++HELLO THIS IS PRIYA
++
+-- 
+2.50.1.windows.1
+
